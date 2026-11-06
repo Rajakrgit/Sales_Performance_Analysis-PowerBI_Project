@@ -46,7 +46,7 @@ The Sales Performance Analysis project uses Microsoft Power BI to examine sales 
 # 5. Key Business Insights
 • Category concentration: Bikes contribute about 23.64M (94.89%) of displayed category sales. Accessories contribute about 0.91M (3.64%); Clothing contributes the small remainder.
 
-• Monthly trend: Sales rise toward May–June, drop sharply in July and recover in December. Exact monthly values are not printed in the screenshot.
+• Monthly trend: Sales rise toward May–June, drop sharply in July and recover in December.
 
 • Yearly trend: The chart shows 2016 and 2017 sales above 2015; confirm exact amounts in the report.
 
